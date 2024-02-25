@@ -1,0 +1,11 @@
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\bin\Debug\net6.0\MillGame.deps.json
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\bin\Debug\net6.0\MillGame.dll
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\bin\Debug\net6.0\MillGame.pdb
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\MillGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\MillGame.AssemblyInfoInputs.cache
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\MillGame.AssemblyInfo.cs
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\MillGame.csproj.CoreCompileInputs.cache
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\MillGame.dll
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\refint\MillGame.dll
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\MillGame.pdb
+C:\Users\agi\Documents\_ELTE\EVA\beadando_WPF_vegleges\TheMillGame\MillGame\obj\Debug\net6.0\ref\MillGame.dll

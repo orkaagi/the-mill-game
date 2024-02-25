@@ -1,0 +1,100 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {
+      "MillGame/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/MillGame.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MillGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MillGame/1.0.0": {
+      "type": "project",
+      "path": "../MillGame/MillGame.csproj",
+      "msbuildProject": "../MillGame/MillGame.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": [
+      "MillGame >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\agi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\agi\\Documents\\_ELTE\\EVA\\WPF\\beadando_WPF_vegleges\\TheMillGame\\MillGame.WPF\\MillGame.WPF.csproj",
+      "projectName": "MillGame.WPF",
+      "projectPath": "C:\\Users\\agi\\Documents\\_ELTE\\EVA\\WPF\\beadando_WPF_vegleges\\TheMillGame\\MillGame.WPF\\MillGame.WPF.csproj",
+      "packagesPath": "C:\\Users\\agi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\agi\\Documents\\_ELTE\\EVA\\WPF\\beadando_WPF_vegleges\\TheMillGame\\MillGame.WPF\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\agi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {
+            "C:\\Users\\agi\\Documents\\_ELTE\\EVA\\WPF\\beadando_WPF_vegleges\\TheMillGame\\MillGame\\MillGame.csproj": {
+              "projectPath": "C:\\Users\\agi\\Documents\\_ELTE\\EVA\\WPF\\beadando_WPF_vegleges\\TheMillGame\\MillGame\\MillGame.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WPF": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

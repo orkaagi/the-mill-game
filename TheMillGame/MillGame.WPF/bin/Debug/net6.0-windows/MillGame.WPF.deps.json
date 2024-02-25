@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MillGame.WPF/1.0.0": {
+        "dependencies": {
+          "MillGame": "1.0.0"
+        },
+        "runtime": {
+          "MillGame.WPF.dll": {}
+        }
+      },
+      "MillGame/1.0.0": {
+        "runtime": {
+          "MillGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MillGame.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MillGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
