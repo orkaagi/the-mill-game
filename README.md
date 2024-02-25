@@ -1,2 +1,2 @@
-# the-mill-game
-University assignment on Event Driven Applications.
+# The Mill Game
+University assignment on Event-driven Programming.
